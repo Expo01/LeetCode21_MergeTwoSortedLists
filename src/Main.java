@@ -104,6 +104,8 @@ class Solution {
 //        return prehead.next;
 //    }
 
+   // dario says he feels like ternary is a little sloppy and the while criteria should be || based not &&
+
 
     //here is the recursion approach that is not intuitive for me, but does avoid creating a new value and runtime is
     // equivalent. recursion probably more accurate in this case
